@@ -1,1 +1,2002 @@
-[]
+[
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you travel to Japan, what will you eat?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If you miss the bus, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If it rains during your trip, what will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If your luggage gets lost, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you find a cheap flight, will you book it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If your hotel is full, where will you sleep?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you go to the mountains, what will you bring?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you visit a beach, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If the weather is hot, what clothes will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you get lost in a city, who will you ask?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If you don’t speak the language, how will you communicate?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you travel alone, will you feel lonely?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If your plane is delayed, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you arrive late, will the hotel still help you?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If you meet a new friend, will you travel together?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you forget your passport, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you travel by train, what will you see?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you go hiking, what will you pack?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If you visit a famous place, will you take photos?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Travel",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If you try new food, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Hot Seat, Would You Rather",
+    "prompt": "If you eat too much, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you drink coffee at night, will you sleep well?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you forget your lunch, what will you eat?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If the food is too spicy, will you finish it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If someone offers you new food, will you try it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you go to a restaurant, what will you order?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you see a long line at a cafe, will you wait?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If your friend cooks dinner, will you help?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you skip breakfast, will you feel tired?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you eat healthy food, how will your body feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you go to a food market, what will you buy?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If you cook a new recipe, will it taste good?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you don’t like the food, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you visit Italy, what will you eat?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you see a cake, will you eat it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you try sushi, will you like it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If your friend invites you to dinner, will you go?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you are hungry in class, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If you go on a picnic, what food will you bring?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Food",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you eat too fast, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If your phone battery dies, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you lose your phone, how will you contact people?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If your internet stops working, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you buy a new laptop, what will you use it for?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Hot Seat, Would You Rather",
+    "prompt": "If your favorite app stops working, what will you try?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you break your headphones, will you buy new ones?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If your computer is slow, what will you check?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Would You Rather, Hot Seat",
+    "prompt": "If you get a new phone, what will you install first?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If you post a photo online, who will see it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If your screen freezes, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If you forget your password, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If your device makes a strange sound, what will you check?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you take too many selfies, what will people say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If your friend messages you late at night, will you reply?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If your email has a virus, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you see something interesting online, will you share it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If you get a message from a stranger, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Would You Rather, Hot Seat",
+    "prompt": "If you need help with tech, who will you ask?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If your app crashes, what will you try?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Technology",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If someone gives you a tablet, what will you use it for?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If your boss is angry, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If you are late, what will your manager do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you forget your ID, will you enter the office?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you have a lot of work, how will you finish it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you get a new job, what will you do first?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If your team is busy, will you help them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If your computer breaks, what will you tell your boss?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you don’t like your job, will you quit?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If your coworker needs help, will you support them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you have a job interview, what will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If you arrive early, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Hot Seat, Would You Rather",
+    "prompt": "If you get tired at work, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If your boss gives you extra work, will you do it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you need a break, will you ask for one?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If someone is rude at work, how will you react?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you finish a project, what will you do next?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If the office is too cold, what will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you forget an important file, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If there is a problem, who will you tell?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Work/Jobs",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you want a raise, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you feel sick, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you don’t sleep enough, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you eat more vegetables, how will your body change?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you walk every day, will you feel better?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you catch a cold, what will you take?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If your friend is sick, what will you suggest?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you go to the gym, what will you do there?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you drink too much soda, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you have a fever, will you go to school?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you skip breakfast, will you be hungry?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you hurt your leg, who will you call?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you feel tired, what will you drink?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If your back hurts, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you play sports, will you feel healthy?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you have a stomachache, what will you eat?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you rest more, will you feel stronger?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Board Game, Would You Rather",
+    "prompt": "If you eat too much sugar, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you go to the doctor, what will they say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If you run every day, how will you change?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Health",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you want to be healthy, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If someone tells a joke, will you laugh?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you meet a shy person, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If your friend is sad, how will you help?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you feel angry, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If someone gives you a gift, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you feel nervous, what will you think?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you are confident, what will you try?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If someone asks for help, will you say yes?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you feel scared, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you are happy, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If someone is rude, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you meet someone funny, how will you react?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If you want to be friendly, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you feel bored, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Board Game, Would You Rather",
+    "prompt": "If you are tired, will you still go out?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If someone talks too much, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you are quiet, how will you join the group?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Board Game, Would You Rather",
+    "prompt": "If you feel excited, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If someone invites you to a party, will you go?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Personality",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you want to cheer someone up, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you wake up late, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you miss your bus, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you forget your homework, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If you don’t set an alarm, will you wake up on time?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If you skip breakfast, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If it rains in the morning, what will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you lose your house keys, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you go to bed early, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you take a shower at night, will you sleep better?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Would You Rather, Hot Seat",
+    "prompt": "If you drink coffee in the morning, will you feel awake?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you check your phone in bed, will you sleep well?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If your alarm doesn’t ring, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you eat lunch late, will you be tired?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If your bag is too heavy, what will you take out?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you get home early, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you leave your umbrella, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you don’t sleep enough, will you be tired?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If your clothes are dirty, what will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If you go to sleep at midnight, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Daily Routines",
+    "gameTypes": "Would You Rather, Hot Seat",
+    "prompt": "If you clean your room, how will it look?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If your friend is angry, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If you meet a new classmate, what will you ask?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If someone gives you advice, will you follow it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If your friend is late, will you wait?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If your family visits, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you forget a birthday, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If your friend is sad, how will you help?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If your parents call, will you answer?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you argue with someone, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If your friend needs money, will you help?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you get a gift, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If your friend wants to talk, will you listen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If your friend lies to you, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you make a mistake, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Speed Chat, Interview",
+    "prompt": "If you like someone, will you tell them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you hurt someone’s feelings, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If someone helps you, how will you thank them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If your friend has a problem, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If you want to make friends, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Relationships",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If your friend forgets something, will you remind them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you go to a cultural festival, what will you wear?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If someone speaks a different language, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you learn about another country, what will surprise you?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If you try traditional food, will you like it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you visit a new country, what will you learn?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If someone visits your country, what will you show them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you see a traditional dance, will you join?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you learn a new tradition, will you follow it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Would You Rather, Interview",
+    "prompt": "If your friend invites you to a cultural event, will you go?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you hear traditional music, what will you think?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Would You Rather, Speed Chat",
+    "prompt": "If you wear traditional clothes, how will you feel?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Board Game, Speed Chat",
+    "prompt": "If you visit a temple, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If you learn a new custom, will you respect it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you see different table manners, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Interview, Speed Chat",
+    "prompt": "If you take part in a festival, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Board Game, Would You Rather",
+    "prompt": "If you see a cultural show, will you enjoy it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Speed Chat, Hot Seat",
+    "prompt": "If you cook food from another country, who will you invite?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If someone teaches you a custom, will you try it?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Hot Seat, Speed Chat",
+    "prompt": "If you visit a museum, what will you see?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Culture",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you read about a tradition, what will you remember?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Board Game, Hot Seat",
+    "prompt": "If you study hard, what will happen?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you forget your homework, what will you say?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If the teacher gives a test, will you pass?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If you don’t understand something, what will you ask?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you get a good grade, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you miss class, what will you do later?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If your teacher is sick, who will teach?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you write more, will your English improve?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Hot Seat, Board Game",
+    "prompt": "If you learn new words, how will you remember them?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Speed Chat, Board Game",
+    "prompt": "If you read English books, will your vocabulary grow?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Hot Seat, Would You Rather",
+    "prompt": "If you work with friends, will it be easier?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you have too much homework, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Hot Seat, Interview",
+    "prompt": "If you have a question, will you ask the teacher?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Speed Chat, Would You Rather",
+    "prompt": "If you study with music, will you focus?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Would You Rather, Hot Seat",
+    "prompt": "If you use flashcards, will they help?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Interview, Board Game",
+    "prompt": "If you fail a test, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Would You Rather, Board Game",
+    "prompt": "If you go to school early, what will you do?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Interview, Would You Rather",
+    "prompt": "If the class is boring, what will you think?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Board Game, Interview",
+    "prompt": "If you study every day, what will improve?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  },
+  {
+    "grammar": "First Conditional",
+    "level": "A2+",
+    "topic": "Education",
+    "gameTypes": "Interview, Hot Seat",
+    "prompt": "If you enjoy learning, what will you study next?",
+    "helpingSentence": "If I ____, I will ____.",
+    "followUp": "Why?",
+    "tags": "conditional, A2"
+  }
+]
