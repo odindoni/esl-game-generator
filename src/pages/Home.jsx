@@ -1,3 +1,4 @@
+// updated dropdown logic
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import promptData from '../data/prompts.json';
